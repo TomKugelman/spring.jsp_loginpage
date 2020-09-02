@@ -1,4 +1,4 @@
-package com.github.curriculeon.validator;
+package com.github.curriculeon.component;
 
 import com.github.curriculeon.model.UserProfile;
 import com.github.curriculeon.service.UserProfileService;

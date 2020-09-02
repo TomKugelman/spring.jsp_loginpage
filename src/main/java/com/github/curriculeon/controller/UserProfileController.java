@@ -3,7 +3,7 @@ package com.github.curriculeon.controller;
 import com.github.curriculeon.model.UserProfile;
 import com.github.curriculeon.service.SecurityServiceImpl;
 import com.github.curriculeon.service.UserProfileService;
-import com.github.curriculeon.validator.UserProfileValidator;
+import com.github.curriculeon.component.UserProfileValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
