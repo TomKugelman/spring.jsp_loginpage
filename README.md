@@ -11,3 +11,5 @@
 * After reconfiguring remote, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
 * Ensure that the `artifactId` of the project is changed from `spring-template-project` to a more appropriate project name.
 * Click view the [`README-Sample.md`](./README-Sample.md) to view _how_ a `README` should be structured for a project.
+
+<img src="./how-to-use.gif">
