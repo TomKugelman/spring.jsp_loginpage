@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>SpringBootSampleWebApp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Curriculeon SpringBoot JSP Login Page</name>
     <description>Demo project for Spring Boot With Login JSP View</description>
     <parent>
